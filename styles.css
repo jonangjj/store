@@ -119,10 +119,35 @@ main {
     background-color: #ff5722;
 }
 
+/* ... previous CSS code ... */
+
 .about-us {
     margin-top: 40px;
+}
+
+.about-text {
     text-align: center;
 }
+
+.highlight {
+    font-weight: bold;
+    color: #ee4d2d;
+}
+
+.feature {
+    font-weight: bold;
+    color: #ee4d2d;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.sustainability {
+    text-align: left;
+    margin-left: 20px;
+}
+
+/* ... rest of the CSS code ... */
+
 
 footer {
     text-align: center;
